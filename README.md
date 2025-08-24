@@ -8,7 +8,7 @@ software developer & reverse engineer specializing in os internals, windows syst
 
 ## projects
 
-> **[vexl](vexl.dev)** - cloud-native memory security platform for live, interactive memory analysis [wip]
+> **[vexl](https://vexl.dev)** - cloud-native memory security platform for live, interactive memory analysis [wip]
  
 > **[chimera](https://github.com/ImArjunJ/chimera)** - .net runtime memory injection toolkit exploiting clr for rwx jit regions
  
