@@ -8,6 +8,8 @@ software developer & reverse engineer specializing in os internals, windows syst
 
 ## projects
 
+> **[wavelet](https://github.com/ron0studios/helmholtz)** - satisfying fdtd maxwell em wave simulation, winner of junction '25
+
 > **[vexl](https://vexl.dev)** - cloud-native memory security platform for live, interactive memory analysis [wip]
  
 > **[chimera](https://github.com/ImArjunJ/chimera)** - .net runtime memory injection toolkit exploiting clr for rwx jit regions
