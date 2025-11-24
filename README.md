@@ -8,6 +8,8 @@ software developer & reverse engineer specializing in os internals, windows syst
 
 ## projects
 
+> **[logilinux](https://github.com/logilinux)** - linux drivers for logitech mx series, winner of lauzhack 2025
+
 > **[wavelet](https://github.com/ron0studios/helmholtz)** - satisfying fdtd maxwell em wave simulation, winner of junction '25
 
 > **[vexl](https://vexl.dev)** - cloud-native memory security platform for live, interactive memory analysis [wip]
